@@ -1,6 +1,6 @@
-# GraphTR
+# CCDR
 
-Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation（CIKM-2020)
+Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation（KDD-2022)
 Qi Liu*, Ruobing Xie*, Lei Chen, Shukai Liu, Ke Tu, Peng Cui, Bo Zhang and Leyu Lin.
 
 # Operating environment
