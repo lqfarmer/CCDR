@@ -7,9 +7,8 @@ Ruobing Xie*, Qi Liu*, Liangdong Wang, Shukai Liu, Bo Zhang and Leyu Lin.
 
 python 2.7.15 tensorflow 1.14.0
 
-# Train DFN model
-
-
+# Train CCDR model
+sh -x train.sh
 
 # CITE
 
